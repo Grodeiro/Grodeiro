@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá, eu sou o Guilherme Rodeiro
 
-<!--
-**Grodeiro/Grodeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cursando Administração e Ciência da Computação.
 
-Here are some ideas to get you started:
+💻 Estudando Java, especialmente no ecossistema Spring, pretendo me tornar um desenvolvedor fullstack utilizando Java e Angular.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+</div>
+
