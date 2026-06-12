@@ -16,7 +16,7 @@
 
 ## 👋 Olá, sou Guilherme!
 
-Analista de BI & Dados baseado em **Salvador, BA**, com experiência em transformar dados brutos em dashboards e relatórios que embasam decisões estratégicas.
+Analista de BI &amp; Dados baseado em **Salvador, BA**, com experiência em transformar dados brutos em dashboards e relatórios que embasam decisões estratégicas.
 
 Tenho dupla formação em **Administração** e **Ciência da Computação**, o que me permite conectar o olhar de negócio com a profundidade técnica em dados.
 
@@ -30,13 +30,13 @@ Atuei como **Analista de BI e Dados** no setor de saúde, onde gerenciei dashboa
 
 <div align="center">
 
-### Linguagens & Análise
+### Linguagens &amp; Análise
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### BI & Visualização
+### BI &amp; Visualização
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
